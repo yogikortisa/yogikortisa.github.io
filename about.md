@@ -36,5 +36,5 @@ layout: page
 
 <ul>
 	<li><a href="https://hackerotodidak.com/">Hacker Otodidak - Cybersecurity Consulting & Cyber Education 4.0</a></li>
-	<li><a href="https://www.instagram.com/p/BM_WlDVBSZG/">The first and largest Open Source & CTF competition held in Batam every year</a></li>
+	<li><a href="https://www.instagram.com/p/BM_WlDVBSZG/">Open Source Competition (OSC) - The first and largest Open Source & CTF competition held in Batam every year</a></li>
 </ul>
