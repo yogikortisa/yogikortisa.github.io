@@ -1,6 +1,6 @@
 # main text of home
 name: Yogi Kortisa
-bio: Hacker Culture Evangelist
+bio: Hacking Evangelist
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/color.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -53,18 +53,12 @@ medium: medium
 email: yogi@kortisa.com
 
 authors:
-  johndoe:
+  yogikortisa:
     name: Yogi Kortisa
-    bio: Hacker Culture Evangelist
+    bio: Hacking Evangelist
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/color.jpg
     twitter: yogikortisa
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -84,7 +78,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
