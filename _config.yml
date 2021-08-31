@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Yogi Kortisa
+bio: Hacker Culture Evangelist
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,10 +14,10 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://yogikortisa.github.io/markdown-cv/
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://yogikortisa.github.io
+# your url: https://yogikortisa.github.io
 
 permalink: /:title/
 
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+#facebook: myfacebook
+twitter: yogikortisa
+instagram: yogikortisa
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: yogikortisa
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: yogikortisa
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,15 +50,15 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: yogi@kortisa.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Yogi Kortisa
+    bio: Hacker Culture Evangelist
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: yogikortisa
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
