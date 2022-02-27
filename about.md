@@ -16,8 +16,8 @@ layout: page
 	<li>Web Penetration Testing</li>
 	<li>OWASP Top 10</li>
 	<li>Network / Infrastructure Penetration Testing</li>
-	<li>PHP</li>
-	<li>Bash</li>
+	<li>PHP Programming</li>
+	<li>Bash Scripting</li>
 	<li>GNU/Linux System Administration</li>
 	<li>OSINT</li>
 	<li>Asset Discovery</li>
