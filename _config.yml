@@ -1,6 +1,6 @@
 # main text of home
 name: Yogi Kortisa
-bio: Information Security Professional
+bio: Cybersecurity Professional
 
 # twitter summary info
 description: My online profile & resume
@@ -55,7 +55,7 @@ email: yogi@kortisa.com
 authors:
   yogikortisa:
     name: Yogi Kortisa
-    bio: Information Security Professional
+    bio: Cybersecurity Professional
     external-image: false
     picture: assets/images/color.jpg
     twitter: yogikortisa
