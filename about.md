@@ -15,7 +15,7 @@ layout: page
 	<li>Web Application Penetration Testing</li>
 	<li>Cybersecurity Training & Mentoring</li>
 	<li>Web Application Security</li>
-	<li>Vulnerability Management</li>
+	<li>Vulnerability Assessment & Management</li>
 	<li>DevSecOps Engineering</li>
 	<li>GNU/Linux System Administration</li>
 	<li>PHP Programming</li>
