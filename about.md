@@ -12,7 +12,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Application Security Engineering</li>
-	<li>web Application Penetration Testing</li>
+	<li>Web Application Penetration Testing</li>
 	<li>Cybersecurity Training & Mentoring</li>
 	<li>Web Application Security</li>
 	<li>Vulnerability Management</li>
