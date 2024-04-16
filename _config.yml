@@ -14,10 +14,10 @@ picture: assets/images/color.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://yogikortisa.github.io/markdown-cv/
+resume-url: https://kortisa.com/markdown-cv/
 
-url: https://yogikortisa.github.io
-# your url: https://yogikortisa.github.io
+url: https://kortisa.com
+# your url: https://kortisa.com
 
 permalink: /:title/
 
