@@ -14,10 +14,10 @@ picture: assets/images/blur.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://kortisa.com/markdown-cv/
+resume-url: https://yogikortisa.github.io/markdown-cv/
 
-url: https://kortisa.com
-# your url: https://kortisa.com
+url: https://yogikortisa.github.io/
+# your url: https://yogikortisa.github.io/
 
 permalink: /:title/
 
